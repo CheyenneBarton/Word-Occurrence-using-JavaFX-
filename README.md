@@ -1,2 +1,1 @@
-# Word-Occurrence-using-JavaFX
 
